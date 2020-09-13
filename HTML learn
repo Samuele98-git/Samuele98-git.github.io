@@ -1,0 +1,30 @@
+<html>
+    <head>
+    <style> 
+        body{ background-color: blanchedalmond}
+        h1{ background-color: blue}
+        h2{ background-color: aqua }
+        </style>
+            
+    </head>
+    <title> HTML, write &AMP; run </title>
+    <body> <img src="https://www.technowalkers.com/wp-content/uploads/2017/10/html.jpg" width="1334" height="300">
+        <h1><hr/><p align="center"> First steps  <hr/></p></h1>
+        <h2><hr/><p align="center"> NetBeans IDE </p><hr/>
+    </h2><img src="http://2.bp.blogspot.com/-Ud9xq0kcGag/UysZMG03f-I/AAAAAAAADBI/smyurRE9_8U/s1600/Logo+of+netbeans.jpg" width="300" height="165" >
+        <p> Download NetBeans IDE go => <a href="https://netbeans.org/downloads/start.html?platform=windows&lang=en&option=html&bits=x64" target="_blank"><strong> here</strong></a>
+</p>
+<h2><hr/><p align="center"> Notepad</p><hr/>
+</h2><img src="https://www.w3schools.com/html/img_notepad.png" width="482" height="249">
+<p> If you can't download NetBeans IDE you can use your notepad or a simple txt editor, then you need to write the program and save it with the file extension "<strong>.html</strong>"
+ then click on the icon that appear on the desktop and see your results. Enjoy :).
+</p>
+<p> If you need to edit the file again: right click on the icon and than change the file extension again in "<strong>.txt</strong>".
+</p>
+<h2><hr/><p align="center"> Books </p><hr/>
+</h2><img src="http://www.apogeonline.com/wp-content/uploads/2017/04/html-css.gif" width="100" height="142">
+<p>
+    While if you want to buy it(recommended) go => <a href="https://www.amazon.it/HTML-CSS-Javascript-Jquery-Duckett/dp/1118907442" target="_blank"><strong> here </strong>  but this guide is already based on the book</a>
+    <br><br><a href="file:///C:/Users/sdibl/Desktop/newjadeTemplate.html"> <button  type="link"><p align="center"> Next page</button></p></a><br>
+</body>
+</html>
